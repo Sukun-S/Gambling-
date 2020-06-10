@@ -1,9 +1,12 @@
 #!/bin/bash -x
-echo"...WELCOME GAMBLING SIMULATION..."
+
+echo"...WELL COME GAMBLING SIMULATION..."
+
 
 #CONSTANT
 EVERY_DAY_STAKE=100;
 EVERY_DAY_BET=1
+
 
 #VARIABLE
 isWin=1
@@ -23,3 +26,4 @@ fi
 
 #echo $EVERY_DAY_BET
 echo $cash
+
